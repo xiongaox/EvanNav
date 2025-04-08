@@ -64,6 +64,6 @@
 
 - 公众号：![公众号](https://www.evan.xin/wp-content/uploads/2025/04/111.png)
   
-- 打赏码：！[打赏码](https://www.evan.xin/wp-content/uploads/2025/04/388-e1744121248572.png)
+- 打赏码：![公众号](https://www.evan.xin/wp-content/uploads/2025/04/388-e1744121248572.png)
 
 
