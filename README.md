@@ -1,6 +1,8 @@
 # EvanNav
 简约的个人私有化收藏夹
 
+![QQ](https://i.imgur.com/zGqbG1s.png)
+
 # EvanNav 项目部署文档
 
 ## 一、环境准备
@@ -68,5 +70,7 @@
 - ![公众号](https://www.evan.xin/wp-content/uploads/2025/04/388-e1744121248572.png)
 - QQ交流群：
 - ![QQ](https://www.evan.xin/wp-content/uploads/2025/04/00000-e1744123000122.png)
+
+
 
 
