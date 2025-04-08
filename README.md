@@ -1,7 +1,8 @@
 # EvanNav
 简约的个人私有化收藏夹
 
-![QQ](https://i.imgur.com/zGqbG1s.png)
+|![QQ](https://i.imgur.com/zGqbG1s.png)|![QQ](https://i.imgur.com/K94PINK.png)|
+| ---      | ---       |
 
 # EvanNav 项目部署文档
 
