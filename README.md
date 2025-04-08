@@ -62,8 +62,10 @@
 - 官方网站：[evan.plus](https://evan.plus) 
 - 作者Blog：[evan.xin](https://evan.xin) 和 [evan.top](https://evan.top)
 
-- 公众号：![公众号](https://www.evan.xin/wp-content/uploads/2025/04/111.png)
+- 公众号：
+- ![公众号](https://www.evan.xin/wp-content/uploads/2025/04/111.png)
   
-- 打赏码：![公众号](https://www.evan.xin/wp-content/uploads/2025/04/388-e1744121248572.png)
+- 打赏码：
+- ![公众号](https://www.evan.xin/wp-content/uploads/2025/04/388-e1744121248572.png)
 
 
