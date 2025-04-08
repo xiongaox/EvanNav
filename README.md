@@ -1,5 +1,5 @@
 # EvanNav
-简约的个人私有化收藏夹
+轻盈设计，优雅体验，专属你的个人私有化导航和收藏
 
 |![QQ](https://i.imgur.com/zGqbG1s.png)|![QQ](https://i.imgur.com/K94PINK.png)|
 | ---      | ---       |
