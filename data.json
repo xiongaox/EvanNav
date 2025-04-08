@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "Evan's Space",
+      "url": "https://www.evan.xin",
+      "category": "博客",
+      "description": "EvanNav Designer",
+      "status": "normal",
+      "logo": "https://www.evan.xin/logo.png"
+    }
+  ],
+  "categories": ["博客", "工具", "收藏"],
+  "settings": {
+    "websiteLogo": "",
+    "websiteTitle": "My Website Favorites",
+    "footerInfo": "© EvanNav"
+  },
+  "adminPassword": "admin123456"
+}
